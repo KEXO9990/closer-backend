@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is your ideal date night?",
-    "discussionPrompt": "Share why your ideal date night means so much to you."
+    "question": "ما هي أمسيتنا المثالية معاً؟",
+    "discussionPrompt": "شارك لماذا تعني لك هذه الأمسية الكثير."
   },
   {
     "id": 2,
-    "question": "What song reminds you of us?",
-    "discussionPrompt": "Play the song and share the memories it brings back."
+    "question": "ما الأغنية التي تذكرك بنا؟",
+    "discussionPrompt": "شغّل الأغنية وشارك الذكريات التي تستحضرها."
   },
   {
     "id": 3,
-    "question": "Where should we travel next?",
-    "discussionPrompt": "Discuss what attracts you to that destination."
+    "question": "أين يجب أن نسافر في رحلتنا القادمة؟",
+    "discussionPrompt": "ناقش ما الذي يجذبك إلى تلك الوجهة."
   },
   {
     "id": 4,
-    "question": "What's my best quality?",
-    "discussionPrompt": "Explain why you value that quality in your partner."
+    "question": "ما أفضل صفة فيّ؟",
+    "discussionPrompt": "اشرح لماذا تقدّر هذه الصفة في شريكك."
   },
   {
     "id": 5,
-    "question": "What's our couple superpower?",
-    "discussionPrompt": "Share examples of when you've seen this strength in action."
+    "question": "ما هي قوتنا الخارقة كثنائي؟",
+    "discussionPrompt": "شارك أمثلة على مواقف رأيت فيها هذه القوة."
   },
   {
     "id": 6,
-    "question": "What meal should we cook together this week?",
-    "discussionPrompt": "Plan when and how you'll make it together."
+    "question": "ما الوجبة التي يجب أن نطبخها معاً هذا الأسبوع؟",
+    "discussionPrompt": "خططوا متى وكيف ستحضرونها معاً."
   },
   {
     "id": 7,
-    "question": "What's one goal we should achieve together?",
-    "discussionPrompt": "Discuss the steps to make this goal a reality."
+    "question": "ما هو هدف واحد يجب أن نحققه معاً؟",
+    "discussionPrompt": "ناقشوا الخطوات لتحقيق هذا الهدف."
   },
   {
     "id": 8,
-    "question": "What movie represents our relationship?",
-    "discussionPrompt": "Explain the parallels you see."
+    "question": "ما الفيلم الذي يمثل علاقتنا؟",
+    "discussionPrompt": "اشرح أوجه التشابه التي تراها."
   },
   {
     "id": 9,
-    "question": "What's my favorite way to receive affection?",
-    "discussionPrompt": "Reflect on how you each show and receive love."
+    "question": "ما هي طريقتي المفضلة لتلقي الحب؟",
+    "discussionPrompt": "تأملوا في كيفية إظهار وتلقي الحب بينكم."
   },
   {
     "id": 10,
-    "question": "What's our favorite memory together?",
-    "discussionPrompt": "Relive the moment and share what made it special."
+    "question": "ما هي ذكرتنا المفضلة معاً؟",
+    "discussionPrompt": "عيشوا اللحظة مجدداً وشاركوا ما جعلها مميزة."
   },
   {
     "id": 11,
-    "question": "What adventure should we try together?",
-    "discussionPrompt": "Make a plan to experience this adventure."
+    "question": "ما المغامرة التي يجب أن نجربها معاً؟",
+    "discussionPrompt": "ضعوا خطة لتجربة هذه المغامرة."
   },
   {
     "id": 12,
-    "question": "What's the best gift I've given you?",
-    "discussionPrompt": "Share why that gift was meaningful."
+    "question": "ما أفضل هدية قدمتها لك؟",
+    "discussionPrompt": "شارك لماذا كانت تلك الهدية ذات معنى."
   },
   {
     "id": 13,
-    "question": "What's one thing we should do more often?",
-    "discussionPrompt": "Commit to making it happen regularly."
+    "question": "ما شيء واحد يجب أن نفعله أكثر؟",
+    "discussionPrompt": "التزموا بجعله يحدث بانتظام."
   },
   {
     "id": 14,
-    "question": "What's my hidden talent?",
-    "discussionPrompt": "Encourage each other to showcase these talents more."
+    "question": "ما هي موهبتي الخفية؟",
+    "discussionPrompt": "شجعوا بعضكم لإظهار هذه المواهب أكثر."
   },
   {
     "id": 15,
-    "question": "What TV show should we binge together?",
-    "discussionPrompt": "Set a date to start watching it."
+    "question": "ما المسلسل الذي يجب أن نشاهده معاً؟",
+    "discussionPrompt": "حددوا موعداً لبدء مشاهدته."
   },
   {
     "id": 16,
-    "question": "What's our couple motto?",
-    "discussionPrompt": "Discuss how this motto reflects your relationship."
+    "question": "ما هو شعارنا كثنائي؟",
+    "discussionPrompt": "ناقشوا كيف يعكس هذا الشعار علاقتكم."
   },
   {
     "id": 17,
-    "question": "What's the perfect weekend activity for us?",
-    "discussionPrompt": "Plan to do it this weekend."
+    "question": "ما النشاط المثالي لعطلة نهاية الأسبوع؟",
+    "discussionPrompt": "خططوا للقيام به في نهاية الأسبوع."
   },
   {
     "id": 18,
-    "question": "What makes me laugh the most?",
-    "discussionPrompt": "Share funny moments and inside jokes."
+    "question": "ما الذي يضحكني أكثر شيء؟",
+    "discussionPrompt": "شاركوا اللحظات المضحكة والنكات الخاصة."
   },
   {
     "id": 19,
-    "question": "What's my love language?",
-    "discussionPrompt": "Discuss how you can better speak each other's love language."
+    "question": "ما هي لغة حبي؟",
+    "discussionPrompt": "ناقشوا كيف يمكنكم التحدث بلغة حب بعضكم أفضل."
   },
   {
     "id": 20,
-    "question": "What tradition should we start?",
-    "discussionPrompt": "Commit to beginning this tradition soon."
+    "question": "ما التقليد الذي يجب أن نبدأه؟",
+    "discussionPrompt": "التزموا ببدء هذا التقليد قريباً."
   },
   {
     "id": 21,
-    "question": "What's my favorite feature about you?",
-    "discussionPrompt": "Share what makes you appreciate this feature."
+    "question": "ما صفتي المفضلة فيك؟",
+    "discussionPrompt": "شارك ما يجعلك تقدر هذه الصفة."
   },
   {
     "id": 22,
-    "question": "What's our dream home like?",
-    "discussionPrompt": "Describe the details of your ideal home together."
+    "question": "كيف يبدو منزل أحلامنا؟",
+    "discussionPrompt": "صِفوا تفاصيل منزلكم المثالي معاً."
   },
   {
     "id": 23,
-    "question": "What hobby should we learn together?",
-    "discussionPrompt": "Research how to get started."
+    "question": "ما الهواية التي يجب أن نتعلمها معاً؟",
+    "discussionPrompt": "ابحثوا عن كيفية البدء."
   },
   {
     "id": 24,
-    "question": "What's my comfort food?",
-    "discussionPrompt": "Plan to surprise each other with it."
+    "question": "ما هو طعامي المفضل للراحة؟",
+    "discussionPrompt": "خططوا لمفاجأة بعضكم به."
   },
   {
     "id": 25,
-    "question": "What's the best compliment I've given you?",
-    "discussionPrompt": "Reflect on why words of affirmation matter."
+    "question": "ما أفضل مديح قدمته لك؟",
+    "discussionPrompt": "تأملوا في أهمية كلمات التقدير."
   },
   {
     "id": 26,
-    "question": "What color represents our relationship?",
-    "discussionPrompt": "Explain the symbolism behind your choice."
+    "question": "ما اللون الذي يمثل علاقتنا؟",
+    "discussionPrompt": "اشرحوا رمزية اختياركم."
   },
   {
     "id": 27,
-    "question": "What's my dream job?",
-    "discussionPrompt": "Discuss how you can support each other's dreams."
+    "question": "ما هي وظيفة أحلامي؟",
+    "discussionPrompt": "ناقشوا كيف يمكنكم دعم أحلام بعضكم."
   },
   {
     "id": 28,
-    "question": "What's our favorite season together?",
-    "discussionPrompt": "Share favorite seasonal activities you enjoy together."
+    "question": "ما موسمنا المفضل معاً؟",
+    "discussionPrompt": "شاركوا الأنشطة الموسمية المفضلة التي تستمتعون بها معاً."
   },
   {
     "id": 29,
-    "question": "What book should we read together?",
-    "discussionPrompt": "Start a couple's book club."
+    "question": "ما الكتاب الذي يجب أن نقرأه معاً؟",
+    "discussionPrompt": "ابدأوا نادي كتب للثنائي."
   },
   {
     "id": 30,
-    "question": "What's my biggest fear?",
-    "discussionPrompt": "Discuss how you can support each other through fears."
+    "question": "ما هو أكبر خوف لدي؟",
+    "discussionPrompt": "ناقشوا كيف يمكنكم دعم بعضكم عبر المخاوف."
   }
 ]

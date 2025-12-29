@@ -2,151 +2,151 @@
   {
     "id": 1,
     "type": "light",
-    "text": "Take a selfie together and set it as your phone wallpaper for the day"
+    "text": "التقطوا صورة سيلفي معاً واجعلوها خلفية هاتفكم لهذا اليوم"
   },
   {
     "id": 2,
     "type": "light",
-    "text": "Give each other a compliment you've never said before"
+    "text": "قدموا لبعضكم مديحاً لم تقولوه من قبل"
   },
   {
     "id": 3,
     "type": "light",
-    "text": "Share your phone's photo gallery and explain your 3 favorite photos"
+    "text": "شاركوا معرض صور هاتفكم واشرحوا 3 صور مفضلة"
   },
   {
     "id": 4,
     "type": "light",
-    "text": "Do a 30-second dance together to your favorite song"
+    "text": "ارقصوا معاً لمدة 30 ثانية على أغنيتكم المفضلة"
   },
   {
     "id": 5,
     "type": "light",
-    "text": "Make a secret handshake and perform it"
+    "text": "ابتكروا مصافحة سرية وأدوها"
   },
   {
     "id": 6,
     "type": "light",
-    "text": "Draw a quick portrait of each other (stick figures count!)"
+    "text": "ارسموا صورة سريعة لبعضكم (الرسم البسيط يكفي!)"
   },
   {
     "id": 7,
     "type": "light",
-    "text": "Share the last meme that made you laugh out loud"
+    "text": "شاركوا آخر ميم أضحككم بصوت عالٍ"
   },
   {
     "id": 8,
     "type": "light",
-    "text": "Plan your next date night together right now"
+    "text": "خططوا لموعدكم القادم الآن مباشرة"
   },
   {
     "id": 9,
     "type": "light",
-    "text": "Give each other a silly nickname that you'll use for the rest of the game"
+    "text": "أعطوا بعضكم لقباً طريفاً ستستخدمونه لبقية اللعبة"
   },
   {
     "id": 10,
     "type": "light",
-    "text": "Share a funny or embarrassing story from your childhood"
+    "text": "شاركوا قصة مضحكة أو محرجة من طفولتكم"
   },
   {
     "id": 11,
     "type": "romantic",
-    "text": "Look into each other's eyes for 30 seconds without speaking"
+    "text": "انظروا في عيون بعضكم لمدة 30 ثانية دون كلام"
   },
   {
     "id": 12,
     "type": "romantic",
-    "text": "Share three things you appreciate about your partner right now"
+    "text": "شاركوا ثلاثة أشياء تقدرونها في شريككم الآن"
   },
   {
     "id": 13,
     "type": "romantic",
-    "text": "Describe your favorite moment together in detail"
+    "text": "صِفوا لحظتكم المفضلة معاً بالتفصيل"
   },
   {
     "id": 14,
     "type": "romantic",
-    "text": "Give your partner a gentle hand or shoulder massage for 1 minute"
+    "text": "دلكوا يد أو كتف شريككم بلطف لمدة دقيقة"
   },
   {
     "id": 15,
     "type": "romantic",
-    "text": "Tell your partner a dream you have about your future together"
+    "text": "أخبروا شريككم بحلم لديكم عن مستقبلكم معاً"
   },
   {
     "id": 16,
     "type": "romantic",
-    "text": "Share what you first noticed about your partner when you met"
+    "text": "شاركوا ما لاحظتموه أولاً عن شريككم عندما التقيتم"
   },
   {
     "id": 17,
     "type": "romantic",
-    "text": "Write a short love note to your partner (text or paper)"
+    "text": "اكتبوا رسالة حب قصيرة لشريككم (رسالة نصية أو ورقة)"
   },
   {
     "id": 18,
     "type": "romantic",
-    "text": "Share the exact moment you knew you had deep feelings"
+    "text": "شاركوا اللحظة التي أدركتم فيها أن لديكم مشاعر عميقة"
   },
   {
     "id": 19,
     "type": "romantic",
-    "text": "Plan a surprise for your partner (even if it's small)"
+    "text": "خططوا لمفاجأة لشريككم (حتى لو كانت صغيرة)"
   },
   {
     "id": 20,
     "type": "romantic",
-    "text": "Say 'I love you' in a different language together"
+    "text": "قولوا 'أحبك' بلغة مختلفة معاً"
   },
   {
     "id": 21,
     "type": "deep",
-    "text": "Share something you've never told anyone else"
+    "text": "شاركوا شيئاً لم تخبروا به أحداً من قبل"
   },
   {
     "id": 22,
     "type": "deep",
-    "text": "Discuss: What does trust mean to you in our relationship?"
+    "text": "ناقشوا: ماذا تعني الثقة لك في علاقتنا؟"
   },
   {
     "id": 23,
     "type": "deep",
-    "text": "Share a fear or insecurity you have about the future"
+    "text": "شاركوا خوفاً أو قلقاً لديكم حول المستقبل"
   },
   {
     "id": 24,
     "type": "deep",
-    "text": "Discuss: How have we grown together since we first met?"
+    "text": "ناقشوا: كيف نمونا معاً منذ أول لقاء؟"
   },
   {
     "id": 25,
     "type": "deep",
-    "text": "Share something you need more of from your partner"
+    "text": "شاركوا شيئاً تحتاجون المزيد منه من شريككم"
   },
   {
     "id": 26,
     "type": "deep",
-    "text": "Discuss: What values are most important to you in life?"
+    "text": "ناقشوا: ما القيم الأكثر أهمية لك في الحياة؟"
   },
   {
     "id": 27,
     "type": "deep",
-    "text": "Share a childhood experience that shaped who you are"
+    "text": "شاركوا تجربة من الطفولة شكلت من أنتم"
   },
   {
     "id": 28,
     "type": "deep",
-    "text": "Discuss: Where do you see us in 5 years?"
+    "text": "ناقشوا: أين ترون أنفسنا بعد 5 سنوات؟"
   },
   {
     "id": 29,
     "type": "deep",
-    "text": "Share a moment when you felt completely understood by your partner"
+    "text": "شاركوا لحظة شعرتم فيها أن شريككم يفهمكم تماماً"
   },
   {
     "id": 30,
     "type": "deep",
-    "text": "Discuss: What does commitment mean to each of you?"
+    "text": "ناقشوا: ماذا يعني الالتزام لكل منكم؟"
   }
 ]
