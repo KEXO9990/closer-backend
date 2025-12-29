@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "type": "light",
+    "text": "Take a selfie together and set it as your phone wallpaper for the day"
+  },
+  {
+    "id": 2,
+    "type": "light",
+    "text": "Give each other a compliment you've never said before"
+  },
+  {
+    "id": 3,
+    "type": "light",
+    "text": "Share your phone's photo gallery and explain your 3 favorite photos"
+  },
+  {
+    "id": 4,
+    "type": "light",
+    "text": "Do a 30-second dance together to your favorite song"
+  },
+  {
+    "id": 5,
+    "type": "light",
+    "text": "Make a secret handshake and perform it"
+  },
+  {
+    "id": 6,
+    "type": "light",
+    "text": "Draw a quick portrait of each other (stick figures count!)"
+  },
+  {
+    "id": 7,
+    "type": "light",
+    "text": "Share the last meme that made you laugh out loud"
+  },
+  {
+    "id": 8,
+    "type": "light",
+    "text": "Plan your next date night together right now"
+  },
+  {
+    "id": 9,
+    "type": "light",
+    "text": "Give each other a silly nickname that you'll use for the rest of the game"
+  },
+  {
+    "id": 10,
+    "type": "light",
+    "text": "Share a funny or embarrassing story from your childhood"
+  },
+  {
+    "id": 11,
+    "type": "romantic",
+    "text": "Look into each other's eyes for 30 seconds without speaking"
+  },
+  {
+    "id": 12,
+    "type": "romantic",
+    "text": "Share three things you appreciate about your partner right now"
+  },
+  {
+    "id": 13,
+    "type": "romantic",
+    "text": "Describe your favorite moment together in detail"
+  },
+  {
+    "id": 14,
+    "type": "romantic",
+    "text": "Give your partner a gentle hand or shoulder massage for 1 minute"
+  },
+  {
+    "id": 15,
+    "type": "romantic",
+    "text": "Tell your partner a dream you have about your future together"
+  },
+  {
+    "id": 16,
+    "type": "romantic",
+    "text": "Share what you first noticed about your partner when you met"
+  },
+  {
+    "id": 17,
+    "type": "romantic",
+    "text": "Write a short love note to your partner (text or paper)"
+  },
+  {
+    "id": 18,
+    "type": "romantic",
+    "text": "Share the exact moment you knew you had deep feelings"
+  },
+  {
+    "id": 19,
+    "type": "romantic",
+    "text": "Plan a surprise for your partner (even if it's small)"
+  },
+  {
+    "id": 20,
+    "type": "romantic",
+    "text": "Say 'I love you' in a different language together"
+  },
+  {
+    "id": 21,
+    "type": "deep",
+    "text": "Share something you've never told anyone else"
+  },
+  {
+    "id": 22,
+    "type": "deep",
+    "text": "Discuss: What does trust mean to you in our relationship?"
+  },
+  {
+    "id": 23,
+    "type": "deep",
+    "text": "Share a fear or insecurity you have about the future"
+  },
+  {
+    "id": 24,
+    "type": "deep",
+    "text": "Discuss: How have we grown together since we first met?"
+  },
+  {
+    "id": 25,
+    "type": "deep",
+    "text": "Share something you need more of from your partner"
+  },
+  {
+    "id": 26,
+    "type": "deep",
+    "text": "Discuss: What values are most important to you in life?"
+  },
+  {
+    "id": 27,
+    "type": "deep",
+    "text": "Share a childhood experience that shaped who you are"
+  },
+  {
+    "id": 28,
+    "type": "deep",
+    "text": "Discuss: Where do you see us in 5 years?"
+  },
+  {
+    "id": 29,
+    "type": "deep",
+    "text": "Share a moment when you felt completely understood by your partner"
+  },
+  {
+    "id": 30,
+    "type": "deep",
+    "text": "Discuss: What does commitment mean to each of you?"
+  }
+]

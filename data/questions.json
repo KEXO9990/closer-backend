@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "What is your ideal date night?",
+    "discussionPrompt": "Share why your ideal date night means so much to you."
+  },
+  {
+    "id": 2,
+    "question": "What song reminds you of us?",
+    "discussionPrompt": "Play the song and share the memories it brings back."
+  },
+  {
+    "id": 3,
+    "question": "Where should we travel next?",
+    "discussionPrompt": "Discuss what attracts you to that destination."
+  },
+  {
+    "id": 4,
+    "question": "What's my best quality?",
+    "discussionPrompt": "Explain why you value that quality in your partner."
+  },
+  {
+    "id": 5,
+    "question": "What's our couple superpower?",
+    "discussionPrompt": "Share examples of when you've seen this strength in action."
+  },
+  {
+    "id": 6,
+    "question": "What meal should we cook together this week?",
+    "discussionPrompt": "Plan when and how you'll make it together."
+  },
+  {
+    "id": 7,
+    "question": "What's one goal we should achieve together?",
+    "discussionPrompt": "Discuss the steps to make this goal a reality."
+  },
+  {
+    "id": 8,
+    "question": "What movie represents our relationship?",
+    "discussionPrompt": "Explain the parallels you see."
+  },
+  {
+    "id": 9,
+    "question": "What's my favorite way to receive affection?",
+    "discussionPrompt": "Reflect on how you each show and receive love."
+  },
+  {
+    "id": 10,
+    "question": "What's our favorite memory together?",
+    "discussionPrompt": "Relive the moment and share what made it special."
+  },
+  {
+    "id": 11,
+    "question": "What adventure should we try together?",
+    "discussionPrompt": "Make a plan to experience this adventure."
+  },
+  {
+    "id": 12,
+    "question": "What's the best gift I've given you?",
+    "discussionPrompt": "Share why that gift was meaningful."
+  },
+  {
+    "id": 13,
+    "question": "What's one thing we should do more often?",
+    "discussionPrompt": "Commit to making it happen regularly."
+  },
+  {
+    "id": 14,
+    "question": "What's my hidden talent?",
+    "discussionPrompt": "Encourage each other to showcase these talents more."
+  },
+  {
+    "id": 15,
+    "question": "What TV show should we binge together?",
+    "discussionPrompt": "Set a date to start watching it."
+  },
+  {
+    "id": 16,
+    "question": "What's our couple motto?",
+    "discussionPrompt": "Discuss how this motto reflects your relationship."
+  },
+  {
+    "id": 17,
+    "question": "What's the perfect weekend activity for us?",
+    "discussionPrompt": "Plan to do it this weekend."
+  },
+  {
+    "id": 18,
+    "question": "What makes me laugh the most?",
+    "discussionPrompt": "Share funny moments and inside jokes."
+  },
+  {
+    "id": 19,
+    "question": "What's my love language?",
+    "discussionPrompt": "Discuss how you can better speak each other's love language."
+  },
+  {
+    "id": 20,
+    "question": "What tradition should we start?",
+    "discussionPrompt": "Commit to beginning this tradition soon."
+  },
+  {
+    "id": 21,
+    "question": "What's my favorite feature about you?",
+    "discussionPrompt": "Share what makes you appreciate this feature."
+  },
+  {
+    "id": 22,
+    "question": "What's our dream home like?",
+    "discussionPrompt": "Describe the details of your ideal home together."
+  },
+  {
+    "id": 23,
+    "question": "What hobby should we learn together?",
+    "discussionPrompt": "Research how to get started."
+  },
+  {
+    "id": 24,
+    "question": "What's my comfort food?",
+    "discussionPrompt": "Plan to surprise each other with it."
+  },
+  {
+    "id": 25,
+    "question": "What's the best compliment I've given you?",
+    "discussionPrompt": "Reflect on why words of affirmation matter."
+  },
+  {
+    "id": 26,
+    "question": "What color represents our relationship?",
+    "discussionPrompt": "Explain the symbolism behind your choice."
+  },
+  {
+    "id": 27,
+    "question": "What's my dream job?",
+    "discussionPrompt": "Discuss how you can support each other's dreams."
+  },
+  {
+    "id": 28,
+    "question": "What's our favorite season together?",
+    "discussionPrompt": "Share favorite seasonal activities you enjoy together."
+  },
+  {
+    "id": 29,
+    "question": "What book should we read together?",
+    "discussionPrompt": "Start a couple's book club."
+  },
+  {
+    "id": 30,
+    "question": "What's my biggest fear?",
+    "discussionPrompt": "Discuss how you can support each other through fears."
+  }
+]
